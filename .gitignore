@@ -1,3 +1,5 @@
 **/a.out
 **/.breakpoints
 **/.ccls-cache
+**/.clang-format
+**/.DS_Store
